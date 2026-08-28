@@ -1,5 +1,5 @@
 
-const BASE_URL = "https://crudcrud.com/api/14f12d67612748cb8b9ad2fd3cddeb87";
+const BASE_URL = "https://crudcrud.com/api/14f12d67612748cb8b9ad2fd3cddeb87/clientes";
 
 const form = document.getElementById('clienteForm');
 const listaClientes = document.getElementById('listaClientes');
